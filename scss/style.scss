@@ -1,0 +1,9 @@
+@use "./abstracts/reset";
+@use "./base";
+@use "./block/header/header";
+@use "./block/upgrades/upgrades";
+@use "./block/save/save";
+@use "./block/avatar/avatar";
+@use "./block/score/score";
+@use "./block/cookie/cookie";
+@use "./abstracts/mediaqueries";
